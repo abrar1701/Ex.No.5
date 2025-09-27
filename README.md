@@ -1,5 +1,10 @@
 # EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
 
+```
+Name: MOHAMED ABRAR M
+Reg no: 212223040111
+```
+
 ## Aim
 To test and compare how different prompt patterns (broad/unstructured vs. clear/refined) affect ChatGPT’s responses across multiple scenarios. The analysis focuses on the **quality**, **accuracy**, and **depth** of the generated outputs.
 
